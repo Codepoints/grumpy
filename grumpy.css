@@ -1,6 +1,12 @@
 @font-face {
   font-family: Grumpy;
-  src: url(./grumpy.ttf);
+  src: url('grumpy.eot');
+  src: url('grumpy.eot?#iefix') format('embedded-opentype'),
+       url('grumpy.woff2') format('woff2'),
+       url('grumpy.woff') format('woff'),
+       url('grumpy.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
 }
 
 body {
