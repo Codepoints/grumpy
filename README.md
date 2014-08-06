@@ -6,8 +6,6 @@ your enjoyment on Emoji rich sites. Whether it’s the good old
 ☺, a well-meant &#x1F495; or a steaming &#x1F4A9;, Grumpy Emoji font is here
 to protect you from the epileptic seizure bound to happen.
 
-[Download TTF](https://raw.github.com/Codepoints/grumpy/tree/master/grumpy.ttf)
-
 ## Character Support Table
 | Codepoint | Glyph |
 | --------- | ----- |
