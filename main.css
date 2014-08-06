@@ -30,9 +30,14 @@ a:hover {
   color: hsl(180, 100%, 30%);
 }
 
+small,
+caption,
+footer {
+  color: #444;
+}
+
 footer {
   font-size: small;
-  color: #444;
   margin-top: 4em;
 }
 
@@ -73,7 +78,7 @@ footer {
   text-shadow: 0 -1px hsl(140, 100%, 10%);
 }
 
-.support-chart {
+.support-chart__table {
   border-spacing: 0;
   border-collapse: collapse;
   margin: 1em auto;
@@ -82,7 +87,6 @@ footer {
 
 .support-chart caption {
   font-style: italic;
-  color: #444;
 }
 
 .support-chart th,
