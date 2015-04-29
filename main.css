@@ -89,8 +89,8 @@ footer {
   font-style: italic;
 }
 
-.support-chart th,
-.support-chart td {
+.support-chart__table th,
+.support-chart__table td {
   text-align: left;
   padding: 5px 10px;
   border: 1px solid #ddd;
