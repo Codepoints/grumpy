@@ -1,10 +1,7 @@
 @font-face {
   font-family: Grumpy;
-  src: url('grumpy.eot');
-  src: url('grumpy.eot?#iefix') format('embedded-opentype'),
-       url('grumpy.woff2') format('woff2'),
-       url('grumpy.woff') format('woff'),
-       url('grumpy.ttf') format('truetype');
+  src: url('grumpy.woff2') format('woff2'),
+       url('grumpy.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 }
