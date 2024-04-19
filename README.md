@@ -1,5 +1,10 @@
 # Grumpy Emoji ☺
 
+
+**New!**
+[Read here about everything that is wrong with
+emojis](https://www.theguardian.com/commentisfree/2021/aug/10/emojis-debasing-language-symbols-communication).
+
 Are you, too, weary with the fuss around Emoji? Fear not: We have the
 cure: __Grumpy Emoji__. This unique font is specifically targeted to enhance
 your enjoyment on Emoji rich sites. Whether it’s the good old
