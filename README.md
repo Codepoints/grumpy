@@ -29,7 +29,7 @@ instantly be taken care of.
 
     @font-face {
       font-family: Grumpy;
-      src: url(./grumpy.ttf);
+      src: url("grumpy.woff");
       /* change to location of the font file */
     }
 
